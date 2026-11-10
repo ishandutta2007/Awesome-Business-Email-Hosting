@@ -1,6 +1,6 @@
 # Awesome-Business-Email-Hosting
 
-# Top Business Email Hosting Ecosystem
+## Top Business Email Hosting Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Professional Mailboxes, Custom Domains & Collaboration Suites*  
